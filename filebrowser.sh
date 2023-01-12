@@ -1,0 +1,1 @@
+docker run -d --name filebrowser -v /home/joey:/data -p 8380:8080 hurlenko/filebrowser
